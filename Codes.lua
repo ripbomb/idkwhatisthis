@@ -1,2 +1,1 @@
-local codes = {1, 2, 3}
-return codes
+return HttpService:JSONEncode({1, 2, 3})
