@@ -1,1 +1,2 @@
-local codes = {123}
+local codes = {123, 456, 789}
+return codes
