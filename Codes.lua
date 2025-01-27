@@ -1,2 +1,1 @@
-local codes = {1, 2, 3}
-return codes
+[2903892, 230988, 390848]
