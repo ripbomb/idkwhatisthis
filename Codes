@@ -1,3 +1,2 @@
-local codes = {}
-codes = {123, 456, 789}
+local codes = {123, 456, 789}
 return codes
